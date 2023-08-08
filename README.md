@@ -28,7 +28,7 @@ Please implement your solution in your preferred techologies from the below:
 
 - GitLab or GitHub
 - Heroku or Vercel
-- React.JS 16.10.0+
+- Next.js 13+
 
 ## Deliverables
 
